@@ -1,0 +1,1999 @@
+{
+  "businessProfile": {
+    "name": "Saarthi Enterprise",
+    "brand": "SHAKTI",
+    "tagline": "Pure Traditional Spices & Modern E-Commerce Logistics",
+    "email": "contact@saarthienterprise.in",
+    "phone": "+91 98301 23456",
+    "gstin": "19AAACS1429B1Z8",
+    "pan": "AAACS1429B",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "address": "14/2 Netaji Subhash Road, Burrabazar, Kolkata - 700001",
+    "financialYear": "2026-2027"
+  },
+  "products": [
+    {
+      "id": "prod-own-1",
+      "sku": "SHAKTI-GM-250",
+      "name": "Shakti Royal Garam Masala (250g Pouch)",
+      "description": "Handcrafted authentic whole-spice blend with stone-ground cinnamon, green cardamom, black cumin, and mace.",
+      "category": "Pure Spices",
+      "brand": "SHAKTI Masala",
+      "images": [
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "sourceType": "OWN_PRODUCT",
+      "purchaseCost": 95,
+      "sellingPrice": 185,
+      "gstRate": 5,
+      "packagingCost": 12,
+      "shippingCost": 35,
+      "otherCosts": 5,
+      "stockQuantity": 419,
+      "reservedStock": 15,
+      "availableStock": 404,
+      "weightKg": 0.25,
+      "dimensions": "15x20x3 cm",
+      "status": "ACTIVE",
+      "salesChannel": "Storefront & Shakti POS",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-24T10:00:00.000Z"
+    },
+    {
+      "id": "prod-own-2",
+      "sku": "SHAKTI-KRC-500",
+      "name": "Shakti Pure Kashmiri Mirch Powder (500g Jar)",
+      "description": "Naturally sun-dried Kashmiri chillies with vibrant natural red color and gentle aroma without artificial colors.",
+      "category": "Pure Spices",
+      "brand": "SHAKTI Masala",
+      "images": [
+        "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=600&auto=format&fit=crop&q=80"
+      ],
+      "sourceType": "OWN_PRODUCT",
+      "purchaseCost": 160,
+      "sellingPrice": 295,
+      "gstRate": 5,
+      "packagingCost": 18,
+      "shippingCost": 40,
+      "otherCosts": 8,
+      "stockQuantity": 280,
+      "reservedStock": 8,
+      "availableStock": 272,
+      "weightKg": 0.5,
+      "dimensions": "18x12x12 cm",
+      "status": "ACTIVE",
+      "salesChannel": "Storefront & Shakti POS",
+      "createdAt": "2026-10-21T09:00:00.000Z",
+      "updatedAt": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "id": "prod-own-3",
+      "sku": "SHAKTI-TURM-250",
+      "name": "Shakti High-Curcumin Lakadong Turmeric (250g)",
+      "description": "Premium organic Meghalaya Lakadong turmeric powder with 7.5% certified curcumin content.",
+      "category": "Organic Wellness",
+      "brand": "SHAKTI Masala",
+      "images": [
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80"
+      ],
+      "sourceType": "OWN_PRODUCT",
+      "purchaseCost": 75,
+      "sellingPrice": 160,
+      "gstRate": 5,
+      "packagingCost": 10,
+      "shippingCost": 30,
+      "otherCosts": 4,
+      "stockQuantity": 18,
+      "reservedStock": 2,
+      "availableStock": 16,
+      "weightKg": 0.25,
+      "dimensions": "14x18x3 cm",
+      "status": "ACTIVE",
+      "salesChannel": "Storefront & Shakti POS",
+      "createdAt": "2026-10-22T07:30:00.000Z",
+      "updatedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": "prod-drop-1",
+      "sku": "DROP-SMR-12",
+      "name": "Stainless Steel Spice Carousel 12-Jar Revolving Rack",
+      "description": "Modern 360-degree rotating spice organizer with airtight glass containers and labeled sprinkle lids.",
+      "category": "Kitchenware Logistics",
+      "brand": "ChefLine Pro",
+      "images": [
+        "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=600&auto=format&fit=crop&q=80"
+      ],
+      "sourceType": "DROPSHIP",
+      "purchaseCost": 480,
+      "sellingPrice": 899,
+      "gstRate": 18,
+      "packagingCost": 0,
+      "shippingCost": 0,
+      "otherCosts": 25,
+      "stockQuantity": 150,
+      "reservedStock": 0,
+      "availableStock": 150,
+      "supplierId": "supp-1",
+      "supplierName": "Bengal Kitchen Ware & Hardware Supply",
+      "weightKg": 1.8,
+      "dimensions": "22x22x30 cm",
+      "status": "ACTIVE",
+      "salesChannel": "Saarthi Storefront Dropship",
+      "createdAt": "2026-10-22T10:00:00.000Z",
+      "updatedAt": "2026-10-24T14:00:00.000Z"
+    },
+    {
+      "id": "prod-aff-1",
+      "sku": "AFF-PZ-750W",
+      "name": "Preethi Zodiac Cosmo 750W Heavy-Duty Mixer Grinder",
+      "description": "Master chef mixer with precision spice grinding jars and 5-in-1 food processor attachments.",
+      "category": "Home Appliances",
+      "brand": "Preethi",
+      "images": [
+        "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=600&auto=format&fit=crop&q=80"
+      ],
+      "sourceType": "AFFILIATE",
+      "purchaseCost": 0,
+      "sellingPrice": 8490,
+      "gstRate": 18,
+      "packagingCost": 0,
+      "shippingCost": 0,
+      "otherCosts": 0,
+      "stockQuantity": 999,
+      "reservedStock": 0,
+      "availableStock": 999,
+      "affiliateUrl": "https://amazon.in/dp/B08XYZDEMO?tag=saarthienterprise-21",
+      "commissionRate": 5.5,
+      "weightKg": 6.5,
+      "status": "ACTIVE",
+      "salesChannel": "Amazon Associates Referral",
+      "createdAt": "2026-10-23T08:00:00.000Z",
+      "updatedAt": "2026-10-24T15:00:00.000Z"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "supp-1",
+      "name": "Bengal Kitchen Ware & Hardware Supply",
+      "contactPerson": "Amitava Mukherjee",
+      "email": "amitava.orders@bgkitchenware.co.in",
+      "phone": "+91 98311 88990",
+      "gstin": "19AAACB4820P1Z4",
+      "city": "Howrah, West Bengal",
+      "rating": 4.8,
+      "productsSupplied": 6,
+      "leadTimeDays": 2,
+      "status": "ACTIVE",
+      "notes": "Direct courier dispatch with automatic Delhivery tracking API."
+    },
+    {
+      "id": "supp-2",
+      "name": "Deccan Agro Spices Cultivation Co-op",
+      "contactPerson": "K. Ramachandra",
+      "email": "sales@deccanagrospices.org",
+      "phone": "+91 94440 12345",
+      "gstin": "32AABFD9012K1Z9",
+      "city": "Kochi, Kerala",
+      "rating": 4.9,
+      "productsSupplied": 12,
+      "leadTimeDays": 4,
+      "status": "ACTIVE",
+      "notes": "Wholesale raw cardamom, cloves, and whole black peppercorn."
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-1",
+      "name": "Rohan Sharma",
+      "email": "rohan.sharma@example.com",
+      "phone": "+91 98200 44556",
+      "address": {
+        "street": "Flat 402, Green Valley Apts, Salt Lake Sector V",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700091"
+      },
+      "totalOrders": 3,
+      "totalSpent": 1840,
+      "createdAt": "2026-10-18T10:00:00.000Z"
+    },
+    {
+      "id": "cust-2",
+      "name": "Priyanka Sen (Bhojohori Thali Restaurant)",
+      "email": "bhojohori.procurement@example.com",
+      "phone": "+91 98305 77889",
+      "address": {
+        "street": "Plot 28, Deshapriya Park Road",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700029"
+      },
+      "gstin": "19AACFB1029D1Z3",
+      "totalOrders": 6,
+      "totalSpent": 14850,
+      "createdAt": "2026-10-15T09:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1792950914168",
+      "orderNumber": "SAR-2026-1004",
+      "customerId": "cust-1792950914168",
+      "customerName": "Ananya Roy",
+      "customerEmail": "ananya.roy@example.com",
+      "customerPhone": "+91 98302 11223",
+      "shippingAddress": {
+        "street": "Flat 2B, Regent Estate, Jadavpur",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700032"
+      },
+      "items": [
+        {
+          "productId": "prod-own-1",
+          "productName": "Shakti Royal Garam Masala (250g Pouch)",
+          "sku": "SHAKTI-GM-250",
+          "sourceType": "OWN_PRODUCT",
+          "quantity": 1,
+          "unitPrice": 185,
+          "unitCost": 95,
+          "gstRate": 5,
+          "cgstAmount": 4.625,
+          "sgstAmount": 4.625,
+          "igstAmount": 0,
+          "subtotal": 185
+        }
+      ],
+      "subtotal": 185,
+      "taxTotal": 9.25,
+      "shippingFee": 50,
+      "discount": 0,
+      "grandTotal": 244.25,
+      "status": "PAID",
+      "paymentStatus": "PAID",
+      "paymentMethod": "UPI",
+      "trackingNumber": "EXP-SAR-785354",
+      "carrier": "Delhivery Surface",
+      "createdAt": "2026-10-25T17:55:14.168Z",
+      "updatedAt": "2026-10-25T17:55:14.168Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "SAR-2026-1001",
+      "customerId": "cust-1",
+      "customerName": "Rohan Sharma",
+      "customerEmail": "rohan.sharma@example.com",
+      "customerPhone": "+91 98200 44556",
+      "shippingAddress": {
+        "street": "Flat 402, Green Valley Apts, Salt Lake Sector V",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700091"
+      },
+      "items": [
+        {
+          "productId": "prod-own-1",
+          "productName": "Shakti Royal Garam Masala (250g Pouch)",
+          "sku": "SHAKTI-GM-250",
+          "sourceType": "OWN_PRODUCT",
+          "quantity": 2,
+          "unitPrice": 185,
+          "unitCost": 95,
+          "gstRate": 5,
+          "cgstAmount": 9.25,
+          "sgstAmount": 9.25,
+          "igstAmount": 0,
+          "subtotal": 370
+        }
+      ],
+      "subtotal": 370,
+      "taxTotal": 18.5,
+      "shippingFee": 50,
+      "discount": 0,
+      "grandTotal": 438.5,
+      "status": "DELIVERED",
+      "paymentStatus": "PAID",
+      "paymentMethod": "UPI",
+      "trackingNumber": "DEL-WB-9948210",
+      "carrier": "Delhivery Surface",
+      "createdAt": "2026-10-22T14:30:00.000Z",
+      "updatedAt": "2026-10-24T18:00:00.000Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "SAR-2026-1002",
+      "customerId": "cust-2",
+      "customerName": "Priyanka Sen",
+      "customerEmail": "bhojohori.procurement@example.com",
+      "customerPhone": "+91 98305 77889",
+      "shippingAddress": {
+        "street": "Plot 28, Deshapriya Park Road",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700029"
+      },
+      "items": [
+        {
+          "productId": "prod-drop-1",
+          "productName": "Stainless Steel Spice Carousel 12-Jar Revolving Rack",
+          "sku": "DROP-SMR-12",
+          "sourceType": "DROPSHIP",
+          "quantity": 1,
+          "unitPrice": 899,
+          "unitCost": 480,
+          "gstRate": 18,
+          "cgstAmount": 80.91,
+          "sgstAmount": 80.91,
+          "igstAmount": 0,
+          "subtotal": 899,
+          "supplierId": "supp-1"
+        }
+      ],
+      "subtotal": 899,
+      "taxTotal": 161.82,
+      "shippingFee": 0,
+      "discount": 50,
+      "grandTotal": 1010.82,
+      "status": "SHIPPED",
+      "paymentStatus": "PAID",
+      "paymentMethod": "ONLINE",
+      "trackingNumber": "BLUEDART-8839120",
+      "carrier": "BlueDart Express",
+      "supplierOrderRef": "SUPP-BK-4091",
+      "createdAt": "2026-10-23T11:20:00.000Z",
+      "updatedAt": "2026-10-24T16:00:00.000Z"
+    },
+    {
+      "id": "ord-1003",
+      "orderNumber": "SAR-2026-1003",
+      "customerId": "cust-1",
+      "customerName": "Rohan Sharma",
+      "customerEmail": "rohan.sharma@example.com",
+      "customerPhone": "+91 98200 44556",
+      "shippingAddress": {
+        "street": "Flat 402, Green Valley Apts, Salt Lake Sector V",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700091"
+      },
+      "items": [
+        {
+          "productId": "prod-own-2",
+          "productName": "Shakti Pure Kashmiri Mirch Powder (500g Jar)",
+          "sku": "SHAKTI-KRC-500",
+          "sourceType": "OWN_PRODUCT",
+          "quantity": 1,
+          "unitPrice": 295,
+          "unitCost": 160,
+          "gstRate": 5,
+          "cgstAmount": 7.38,
+          "sgstAmount": 7.38,
+          "igstAmount": 0,
+          "subtotal": 295
+        }
+      ],
+      "subtotal": 295,
+      "taxTotal": 14.76,
+      "shippingFee": 40,
+      "discount": 0,
+      "grandTotal": 349.76,
+      "status": "PROCESSING",
+      "paymentStatus": "PAID",
+      "paymentMethod": "UPI",
+      "createdAt": "2026-10-25T09:15:00.000Z",
+      "updatedAt": "2026-10-25T09:15:00.000Z"
+    }
+  ],
+  "dropshipOrders": [
+    {
+      "id": "ds-1",
+      "orderId": "ord-1002",
+      "orderNumber": "SAR-2026-1002",
+      "productId": "prod-drop-1",
+      "productName": "Stainless Steel Spice Carousel 12-Jar Revolving Rack",
+      "quantity": 1,
+      "supplierId": "supp-1",
+      "supplierName": "Bengal Kitchen Ware & Hardware Supply",
+      "supplierCost": 480,
+      "customerPrice": 899,
+      "estimatedMargin": 419,
+      "supplierOrderRef": "SUPP-BK-4091",
+      "supplierStatus": "SHIPPED",
+      "trackingNumber": "BLUEDART-8839120",
+      "carrier": "BlueDart Express",
+      "supplierPaid": false,
+      "notes": "Dispatched directly from Howrah warehouse to customer.",
+      "createdAt": "2026-10-23T11:45:00.000Z"
+    }
+  ],
+  "affiliateCampaigns": [
+    {
+      "id": "aff-camp-1",
+      "productId": "prod-aff-1",
+      "productName": "Preethi Zodiac Cosmo 750W Heavy-Duty Mixer Grinder",
+      "network": "Amazon Associates India",
+      "affiliateUrl": "https://amazon.in/dp/B08XYZDEMO?tag=saarthienterprise-21",
+      "commissionRate": 5.5,
+      "commissionType": "PERCENTAGE",
+      "clicks": 142,
+      "conversions": 4,
+      "estimatedEarnings": 1867.8,
+      "confirmedEarnings": 1867.8,
+      "status": "ACTIVE",
+      "disclosure": "Saarthi Enterprise participates in affiliate programs. When you purchase through this link, we earn a verified commission at no extra cost to you.",
+      "campaignSource": "YouTube Spices Recipe Description & Storefront",
+      "createdAt": "2026-10-21T10:00:00.000Z"
+    }
+  ],
+  "chartOfAccounts": [
+    {
+      "id": "acc-1010",
+      "code": "1010",
+      "name": "Cash on Hand",
+      "category": "ASSET",
+      "balance": 14250,
+      "description": "Storefront cash counter & retail till"
+    },
+    {
+      "id": "acc-1020",
+      "code": "1020",
+      "name": "HDFC Current Bank Account",
+      "category": "ASSET",
+      "balance": 182734.25,
+      "description": "Main business operational account"
+    },
+    {
+      "id": "acc-1030",
+      "code": "1030",
+      "name": "Accounts Receivable (Customers)",
+      "category": "ASSET",
+      "balance": 4850,
+      "description": "Pending customer invoices"
+    },
+    {
+      "id": "acc-1040",
+      "code": "1040",
+      "name": "Inventory Asset (Spices & Goods)",
+      "category": "ASSET",
+      "balance": 124800,
+      "description": "Valuation of raw & finished inventory"
+    },
+    {
+      "id": "acc-1050",
+      "code": "1050",
+      "name": "Input GST Credit (Recoverable)",
+      "category": "ASSET",
+      "balance": 8420,
+      "description": "Recoverable input tax paid on purchases"
+    },
+    {
+      "id": "acc-2010",
+      "code": "2010",
+      "name": "Accounts Payable (Suppliers)",
+      "category": "LIABILITY",
+      "balance": 12600,
+      "description": "Payable to spice & dropship suppliers"
+    },
+    {
+      "id": "acc-2020",
+      "code": "2020",
+      "name": "Output GST Payable (CGST+SGST)",
+      "category": "LIABILITY",
+      "balance": 6419.25,
+      "description": "Tax collected from customer sales"
+    },
+    {
+      "id": "acc-3010",
+      "code": "3010",
+      "name": "Owner's Capital (Saarthi Enterprise)",
+      "category": "EQUITY",
+      "balance": 250000,
+      "description": "Initial equity investment"
+    },
+    {
+      "id": "acc-4010",
+      "code": "4010",
+      "name": "Product Sales Revenue",
+      "category": "INCOME",
+      "balance": 84835,
+      "description": "Gross revenue from direct product sales"
+    },
+    {
+      "id": "acc-4020",
+      "code": "4020",
+      "name": "Affiliate Marketing Commissions",
+      "category": "INCOME",
+      "balance": 1867.8,
+      "description": "Net earnings from verified affiliate referral links"
+    },
+    {
+      "id": "acc-5010",
+      "code": "5010",
+      "name": "Cost of Goods Sold (COGS)",
+      "category": "EXPENSE",
+      "balance": 38400,
+      "description": "Raw spices, processing and dropship costs"
+    },
+    {
+      "id": "acc-6010",
+      "code": "6010",
+      "name": "Courier & Fulfilment Expense",
+      "category": "EXPENSE",
+      "balance": 4120,
+      "description": "Delhivery & BlueDart shipping costs"
+    },
+    {
+      "id": "acc-6020",
+      "code": "6020",
+      "name": "Marketing & Social Media Tools",
+      "category": "EXPENSE",
+      "balance": 3500,
+      "description": "Digital marketing and studio creation"
+    },
+    {
+      "id": "acc-6030",
+      "code": "6030",
+      "name": "Warehouse & Electricity Utility",
+      "category": "EXPENSE",
+      "balance": 5200,
+      "description": "Rent & warehouse power"
+    }
+  ],
+  "journalEntries": [
+    {
+      "id": "je-1792950914168",
+      "entryNumber": "JV-2026-103",
+      "date": "2026-10-25",
+      "memo": "Sale Order SAR-2026-1004 placed by Ananya Roy",
+      "reference": "SAR-2026-1004",
+      "status": "POSTED",
+      "total": 244.25,
+      "createdAt": "2026-10-25T17:55:14.168Z",
+      "lines": [
+        {
+          "accountId": "acc-1020",
+          "accountName": "HDFC Current Bank Account",
+          "accountCode": "1020",
+          "debit": 244.25,
+          "credit": 0
+        },
+        {
+          "accountId": "acc-4010",
+          "accountName": "Product Sales Revenue",
+          "accountCode": "4010",
+          "debit": 0,
+          "credit": 185
+        },
+        {
+          "accountId": "acc-2020",
+          "accountName": "Output GST Payable (CGST+SGST)",
+          "accountCode": "2020",
+          "debit": 0,
+          "credit": 9.25
+        },
+        {
+          "accountId": "acc-6010",
+          "accountName": "Courier & Fulfilment Expense",
+          "accountCode": "6010",
+          "debit": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "id": "je-101",
+      "entryNumber": "JV-2026-001",
+      "date": "2026-10-22",
+      "memo": "Sale Order SAR-2026-1001 fulfillment and payment receipt",
+      "reference": "SAR-2026-1001",
+      "status": "POSTED",
+      "total": 438.5,
+      "createdAt": "2026-10-22T15:00:00.000Z",
+      "lines": [
+        {
+          "accountId": "acc-1020",
+          "accountName": "HDFC Current Bank Account",
+          "accountCode": "1020",
+          "debit": 438.5,
+          "credit": 0
+        },
+        {
+          "accountId": "acc-4010",
+          "accountName": "Product Sales Revenue",
+          "accountCode": "4010",
+          "debit": 0,
+          "credit": 370
+        },
+        {
+          "accountId": "acc-2020",
+          "accountName": "Output GST Payable (CGST+SGST)",
+          "accountCode": "2020",
+          "debit": 0,
+          "credit": 18.5
+        },
+        {
+          "accountId": "acc-6010",
+          "accountName": "Courier & Fulfilment Expense",
+          "accountCode": "6010",
+          "debit": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "id": "je-102",
+      "entryNumber": "JV-2026-002",
+      "date": "2026-10-23",
+      "memo": "Dropship Sale Order SAR-2026-1002 payment received via Gateway",
+      "reference": "SAR-2026-1002",
+      "status": "POSTED",
+      "total": 1010.82,
+      "createdAt": "2026-10-23T12:00:00.000Z",
+      "lines": [
+        {
+          "accountId": "acc-1020",
+          "accountName": "HDFC Current Bank Account",
+          "accountCode": "1020",
+          "debit": 1010.82,
+          "credit": 0
+        },
+        {
+          "accountId": "acc-4010",
+          "accountName": "Product Sales Revenue",
+          "accountCode": "4010",
+          "debit": 0,
+          "credit": 849
+        },
+        {
+          "accountId": "acc-2020",
+          "accountName": "Output GST Payable (CGST+SGST)",
+          "accountCode": "2020",
+          "debit": 0,
+          "credit": 161.82
+        }
+      ]
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp-1",
+      "category": "PACKAGING",
+      "payee": "Standard Pouch Printers Ltd, Burrabazar",
+      "amount": 4500,
+      "gstAmount": 810,
+      "date": "2026-10-20",
+      "paymentMode": "BANK",
+      "notes": "1,000 Standup moisture-barrier zip pouches for Shakti Garam Masala."
+    },
+    {
+      "id": "exp-2",
+      "category": "ELECTRICITY",
+      "payee": "CESC Kolkata",
+      "amount": 3200,
+      "gstAmount": 0,
+      "date": "2026-10-18",
+      "paymentMode": "BANK",
+      "notes": "Burrabazar spice packaging facility power bill for October."
+    },
+    {
+      "id": "exp-3",
+      "category": "DELIVERY",
+      "payee": "Delhivery Courier Logistics",
+      "amount": 2850,
+      "gstAmount": 513,
+      "date": "2026-10-23",
+      "paymentMode": "BANK",
+      "notes": "Domestic shipping invoices for retail e-commerce orders."
+    }
+  ],
+  "posConfig": {
+    "configured": false,
+    "status": "SYNCED",
+    "endpoint": "/api/pos/v1/sync",
+    "apiKeyMasked": "shakti_pos_live_••••••••9a2f",
+    "syncFrequency": "Every 15 minutes",
+    "supportedEntities": [
+      "Product Master",
+      "Inventory Movement",
+      "Retail Sales Invoices",
+      "Daily Till Settlement"
+    ],
+    "fieldMappingDocumentation": "\nField Mappings for Shakti Masala POS (GitHub Repo Integration):\n• POS Product Barcode -> SHAKTI SKU (e.g., SHAKTI-GM-250)\n• POS Selling Price -> SHAKTI sellingPrice\n• POS Batch Quantity -> SHAKTI stockQuantity\n• POS Sale Invoice ID -> SHAKTI Order Number (Prefix: POS-SAR-)\n• POS Payment Mode -> SHAKTI Journal Entry (Cash: 1010, UPI: 1020)\n• Idempotency Token Header: 'X-Shakti-POS-Idempotency'\n",
+    "lastSyncTimestamp": "2026-10-25T17:55:53.408Z"
+  },
+  "posSyncLogs": [
+    {
+      "id": "pos-log-1792950953408",
+      "timestamp": "2026-10-25T17:55:53.408Z",
+      "action": "INVENTORY_SYNC",
+      "recordsProcessed": 3,
+      "status": "SUCCESS",
+      "details": "POS sync verified with idempotency token SYNC-1792950952567. 3 spice products reconciled."
+    },
+    {
+      "id": "pos-log-1",
+      "timestamp": "2026-10-24T18:30:00.000Z",
+      "action": "INVENTORY_SYNC",
+      "recordsProcessed": 18,
+      "status": "SUCCESS",
+      "details": "Read inventory balances from local POS SQLite database successfully via mapped schema."
+    },
+    {
+      "id": "pos-log-2",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "action": "INVOICE_PULL",
+      "recordsProcessed": 42,
+      "status": "SUCCESS",
+      "details": "Retail counter invoices reconciled into general ledger without duplicate entries."
+    }
+  ],
+  "drafts": [
+    {
+      "id": "draft-mi-1792951960555",
+      "title": "Pure Phulia Handloom Tant Saree — Handwoven Bengal Cotton Elegance",
+      "type": "facebook_post",
+      "platform": "all",
+      "language": "bilingual",
+      "tone": "persuasive",
+      "content": "[APPROVED MARKET OPPORTUNITY: Handloom Tant Cotton Saree (Phulia/Shantipur Weave with Floral Buti)]\n\nHOOK: Tired of stiff polyester replicas? Wear 100% authentic handloom cotton directly from Nadia weavers.\n\nENGLISH:\nHandcrafted with airy 100-count pure cotton yarn, traditional temple border, and delicate floral butis. Drapes effortlessly and stays cool all day. Direct from artisan clusters to your doorstep.\n\nবাংলা (BENGALI):\nনদীয়ার ফুলিয়ার আসল তাঁতের শাড়ি — ১০০% সুতির শীতল স্পর্শ। ঐতিহ্যবাহী পাড় ও সুক্ষ্ম বুটির কাজে সাজিয়ে তুলুন আপনার প্রতিদিনের সাজ। আরামদায়ক ও আভিজাত্যপূর্ণ।\n\nहिन्दी (HINDI):\nपश्चिम बंगाल के फूलिया की असली हथकरघा तांत साड़ी। 100% शुद्ध सूती धागे से बुनी, बेहद हल्की और गर्मियों के लिए सर्वोत्तम।\n\nAUDIENCE TARGET: Women aged 25-55, working professionals, Bengali festive shoppers, handloom saree collectors.\nPROBLEM SOLVED: Machine-made polyester copies sold under the name of handloom cotton that cause sweating and rashes.",
+      "tags": [
+        "#MarketIntelligence",
+        "#SaarthiOpportunity",
+        "#ApprovedDraft",
+        "#fashion_sarees_kurtis"
+      ],
+      "metadata": {
+        "hook": "Tired of stiff polyester replicas? Wear 100% authentic handloom cotton directly from Nadia weavers.",
+        "viralScore": 90,
+        "format": "Market Intelligence Conversion Post"
+      },
+      "createdAt": "2026-10-25T18:12:40.555Z",
+      "updatedAt": "2026-10-25T18:12:40.555Z"
+    },
+    {
+      "id": "draft-1",
+      "title": "Top 5 AI Productivity Tools in 2026 for Creators",
+      "type": "youtube_script",
+      "platform": "youtube",
+      "language": "english",
+      "tone": "high_energy",
+      "content": "[00:00 - HOOK]\nStop wasting 4 hours every day on repetitive video editing and copywriting!\nIn 2026, AI is no longer a gimmick—it is the difference between channels that 10x their subscriber base and those that fade away.\n\n[00:45 - INTRO]\nHey everyone, welcome back to the channel. Today we are breaking down the 5 essential AI tools that top creators use to automate scripts, thumbnails, and multi-platform distribution.\n\n[01:30 - TOOL 1: SHAKTI AI STUDIO]\nFirst up, let's talk about full-funnel content ideation...\n\n[05:00 - CALL TO ACTION]\nDrop a comment below with which tool you're trying first, and hit that subscribe button for weekly AI workflows!",
+      "tags": [
+        "ai-tools",
+        "creator-economy",
+        "productivity",
+        "youtube-growth"
+      ],
+      "metadata": {
+        "hook": "Stop wasting 4 hours every day on repetitive editing and copywriting!",
+        "estimatedDuration": "8-10 mins",
+        "viralScore": 92,
+        "hashtags": [
+          "#AITools",
+          "#CreatorEconomy",
+          "#TechNews"
+        ]
+      },
+      "createdAt": "2026-10-24T16:58:36.308Z",
+      "updatedAt": "2026-10-24T16:58:36.308Z"
+    },
+    {
+      "id": "draft-2",
+      "title": "কেন এআই কনটেন্ট ক্রিয়েশনে বিপ্লব আনছে (Why AI is Revolutionizing Content)",
+      "type": "facebook_post",
+      "platform": "facebook",
+      "language": "bengali",
+      "tone": "inspiring",
+      "content": "ডিজিটাল যুগে কনটেন্ট তৈরি করা এখন আর শুধু বড় এজেন্সির একচেটিয়া নয়! 🚀\n\n২০২৬ সালে বাংলা কনটেন্ট ক্রিয়েটরদের জন্য সুযোগ এখন সবচেয়ে বেশি। সঠিক AI টুল ব্যবহার করে আপনি সময় বাঁচাতে পারেন এবং মান দ্বিগুণ করতে পারেন।\n\n💡 আপনার ফেভারিট সোশ্যাল মিডিয়া স্ট্র্যাটেজি কী? নিচে কমেন্টে জানান এবং পোস্টটি বন্ধুদের সাথে শেয়ার করুন!\n\n#BanglaCreator #AIinBengali #DigitalMarketing #ShaktiAI",
+      "tags": [
+        "bangla",
+        "creators",
+        "inspiration"
+      ],
+      "metadata": {
+        "hook": "ডিজিটাল যুগে কনটেন্ট তৈরি করা এখন আর শুধু বড় এজেন্সির একচেটিয়া নয়!",
+        "viralScore": 88,
+        "hashtags": [
+          "#BanglaCreator",
+          "#AIinBengali",
+          "#DigitalMarketing"
+        ]
+      },
+      "createdAt": "2026-10-25T04:58:36.308Z",
+      "updatedAt": "2026-10-25T04:58:36.308Z"
+    },
+    {
+      "id": "draft-3",
+      "title": "Instagram Reel: 3 Secrets to Viral Hooks in Hindi",
+      "type": "short_video_script",
+      "platform": "instagram",
+      "language": "hindi",
+      "tone": "educational",
+      "content": "[00:00 - 00:03 Hook on Screen + Voiceover]\n\"Agar aapka Reel views 500 par atak jaata hai, toh ye 3 secrets aaj hi follow karo!\"\n\n[00:03 - 00:15 Point 1: 3-Second Pattern Interrupt]\nVisual cue: Screen flashes with zoom-in. \"Pehle 3 second mein generic intro mat do. Seedhe problem statement bolo.\"\n\n[00:15 - 00:30 Point 2: Bold Native Subtitles]\nVisual cue: Pointing at dynamic colored captions. \"80% log bina sound ke reels dekhte hain. Hindi + English subtitles lagao.\"\n\n[00:30 - 00:45 Point 3: Save-Worthy CTA]\n\"Follow for daily creator growth secrets! Save this Reel right now!\"",
+      "tags": [
+        "instagram-reels",
+        "hindi-creator",
+        "viral-hooks"
+      ],
+      "metadata": {
+        "hook": "Agar aapka Reel views 500 par atak jaata hai, toh ye 3 secrets aaj hi follow karo!",
+        "estimatedDuration": "45 seconds",
+        "viralScore": 95,
+        "hashtags": [
+          "#ReelsIndia",
+          "#CreatorTips",
+          "#ViralReels",
+          "#HindiContent"
+        ]
+      },
+      "createdAt": "2026-10-25T10:58:36.308Z",
+      "updatedAt": "2026-10-25T10:58:36.308Z"
+    }
+  ],
+  "calendar": [
+    {
+      "id": "cal-mi-1792951960555",
+      "title": "Pure Phulia Handloom Tant Saree — Handwoven Bengal Cotton Elegance",
+      "draftId": "draft-mi-1792951960555",
+      "platform": "facebook",
+      "plannedDate": "2026-10-26",
+      "plannedTime": "11:00",
+      "contentStatus": "approved",
+      "approvalStatus": "approved",
+      "approvedBy": "Kamal Das (Administrator)",
+      "approvedAt": "2026-10-25T18:12:40.555Z",
+      "contentPreview": "Tired of stiff polyester replicas? Wear 100% authentic handloom cotton directly from Nadia weavers. — Handcrafted with airy 100-count pure cotton yarn, traditional temple border, and delicate floral but..."
+    },
+    {
+      "id": "cal-1",
+      "title": "Top 5 AI Productivity Tools in 2026 for Creators",
+      "draftId": "draft-1",
+      "platform": "youtube",
+      "plannedDate": "2026-10-27",
+      "plannedTime": "17:00",
+      "contentStatus": "approved",
+      "approvalStatus": "approved",
+      "contentPreview": "Stop wasting 4 hours every day on repetitive editing... Full 10m YouTube deep dive.",
+      "approvedBy": "Kamal Das (Administrator)",
+      "approvedAt": "2026-10-25T17:06:22.491Z"
+    },
+    {
+      "id": "cal-2",
+      "title": "Bengali Creators AI Masterclass Announcement",
+      "draftId": "draft-2",
+      "platform": "facebook",
+      "plannedDate": "2026-10-26",
+      "plannedTime": "11:00",
+      "contentStatus": "approved",
+      "approvalStatus": "approved",
+      "approvedBy": "Kamal Das (Administrator)",
+      "approvedAt": "2026-10-25T16:58:36.308Z",
+      "contentPreview": "ডিজিটাল যুগে কনটেন্ট তৈরি করা এখন আর শুধু বড় এজেন্সির একচেটিয়া নয়..."
+    },
+    {
+      "id": "cal-3",
+      "title": "Viral Hooks 3 Secrets Reel",
+      "draftId": "draft-3",
+      "platform": "instagram",
+      "plannedDate": "2026-10-28",
+      "plannedTime": "19:30",
+      "contentStatus": "approved",
+      "approvalStatus": "approved",
+      "contentPreview": "Agar aapka Reel views 500 par atak jaata hai... Short 45s Reel script.",
+      "approvedBy": "Kamal Das (Administrator)",
+      "approvedAt": "2026-10-25T17:06:25.999Z"
+    },
+    {
+      "id": "cal-1792949022214-286vj",
+      "title": "Instagram Reel: 3 Secrets to Viral Hooks in Hindi",
+      "platform": "instagram",
+      "plannedDate": "2026-10-26",
+      "plannedTime": "15:00",
+      "contentStatus": "approved",
+      "approvalStatus": "approved",
+      "contentPreview": "[00:00 - 00:03 Hook on Screen + Voiceover]\n\"Agar aapka Reel views 500 par atak jaata hai, toh ye 3 secrets aaj hi follow karo!\"\n\n[00:03 - 00:15 Point 1: 3-Secon",
+      "approvedBy": "Kamal Das (Administrator)",
+      "approvedAt": "2026-10-25T17:53:02.440Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "act-1792951960555",
+      "action": "Market Opportunity Approved",
+      "actor": "Kamal Das (Administrator)",
+      "module": "ecommerce",
+      "status": "success",
+      "details": "Approved \"Handloom Tant Cotton Saree (Phulia/Shantipur Weave with Floral Buti)\". Draft #draft-mi-1792951960555 exported to AI Content Studio and Scheduled Calendar.",
+      "timestamp": "2026-10-25T18:12:40.555Z"
+    },
+    {
+      "id": "act-1792951948055",
+      "action": "Market Intelligence Updated",
+      "actor": "SHAKTI Research Agent",
+      "module": "system",
+      "status": "success",
+      "details": "Market scan completed across Indian retail categories (Category filter: ALL).",
+      "timestamp": "2026-10-25T18:12:28.055Z"
+    },
+    {
+      "id": "act-1792951946292",
+      "action": "Market Intelligence Updated",
+      "actor": "SHAKTI Research Agent",
+      "module": "system",
+      "status": "success",
+      "details": "Market scan completed across Indian retail categories (Category filter: ALL).",
+      "timestamp": "2026-10-25T18:12:26.292Z"
+    },
+    {
+      "id": "act-1792951944773",
+      "action": "Market Intelligence Updated",
+      "actor": "SHAKTI Research Agent",
+      "module": "system",
+      "status": "success",
+      "details": "Market scan completed across Indian retail categories (Category filter: ALL).",
+      "timestamp": "2026-10-25T18:12:24.773Z"
+    },
+    {
+      "id": "act-1792951942731",
+      "action": "Email Address Verified",
+      "actor": "Ananya Roy",
+      "module": "security",
+      "status": "success",
+      "details": "Cryptographic token verified for teststaff@saarthienterprise.in.",
+      "timestamp": "2026-10-25T18:12:22.731Z"
+    },
+    {
+      "id": "act-1792951938584",
+      "action": "New Account Registered",
+      "actor": "Ananya Roy",
+      "module": "security",
+      "status": "info",
+      "details": "User registered: teststaff@saarthienterprise.in (staff). Verification email token issued.",
+      "timestamp": "2026-10-25T18:12:18.584Z"
+    },
+    {
+      "id": "act-1792951928120",
+      "action": "User Logged In",
+      "actor": "Kamal Das",
+      "module": "security",
+      "status": "success",
+      "details": "Authenticated via password. Session active until 2026-11-24.",
+      "timestamp": "2026-10-25T18:12:08.120Z"
+    },
+    {
+      "id": "act-1792951927109",
+      "action": "User Logged In",
+      "actor": "Kamal Das",
+      "module": "security",
+      "status": "success",
+      "details": "Authenticated via password. Session active until 2026-11-24.",
+      "timestamp": "2026-10-25T18:12:07.109Z"
+    },
+    {
+      "id": "act-1792950914168",
+      "action": "Order Placed & Journal Posted",
+      "actor": "Ananya Roy",
+      "module": "ecommerce",
+      "status": "success",
+      "details": "Order SAR-2026-1004 for ₹244.25 booked. Stock updated.",
+      "timestamp": "2026-10-25T17:55:14.168Z"
+    },
+    {
+      "id": "act-1792950782440",
+      "action": "Publication Approved",
+      "actor": "Kamal Das (Administrator)",
+      "module": "security",
+      "status": "success",
+      "details": "Human verification completed. Approved \"Instagram Reel: 3 Secrets to Viral Hooks in Hindi\" for publishing on INSTAGRAM.",
+      "timestamp": "2026-10-25T17:53:02.440Z"
+    },
+    {
+      "id": "act-1792949225876",
+      "action": "AI Generation Completed",
+      "actor": "Gemini 3.8 Flash",
+      "module": "ai_studio",
+      "status": "success",
+      "details": "Generated short_video_script on \"Instagram Reel: 3 Secrets to Viral Hooks\" in hindi.",
+      "timestamp": "2026-10-25T17:27:05.876Z"
+    },
+    {
+      "id": "act-1792949022214",
+      "action": "Calendar Entry Scheduled",
+      "actor": "User",
+      "module": "calendar",
+      "status": "info",
+      "details": "Scheduled \"Instagram Reel: 3 Secrets to Viral Hooks in Hindi\" on INSTAGRAM for 2026-10-26 at 15:00. Status: Pending Human Approval.",
+      "timestamp": "2026-10-25T17:23:42.214Z"
+    },
+    {
+      "id": "act-1792948038477",
+      "action": "Security Policy Updated",
+      "actor": "Administrator",
+      "module": "security",
+      "status": "info",
+      "details": "Updated security enforcement settings. Human approval mandatory: true",
+      "timestamp": "2026-10-25T17:07:18.477Z"
+    },
+    {
+      "id": "act-1792948038259",
+      "action": "Security Policy Updated",
+      "actor": "Administrator",
+      "module": "security",
+      "status": "info",
+      "details": "Updated security enforcement settings. Human approval mandatory: true",
+      "timestamp": "2026-10-25T17:07:18.259Z"
+    },
+    {
+      "id": "act-1792947985999",
+      "action": "Publication Approved",
+      "actor": "Kamal Das (Administrator)",
+      "module": "security",
+      "status": "success",
+      "details": "Human verification completed. Approved \"Viral Hooks 3 Secrets Reel\" for publishing on INSTAGRAM.",
+      "timestamp": "2026-10-25T17:06:25.999Z"
+    },
+    {
+      "id": "act-1792947982491",
+      "action": "Publication Approved",
+      "actor": "Kamal Das (Administrator)",
+      "module": "security",
+      "status": "success",
+      "details": "Human verification completed. Approved \"Top 5 AI Productivity Tools in 2026 for Creators\" for publishing on YOUTUBE.",
+      "timestamp": "2026-10-25T17:06:22.491Z"
+    },
+    {
+      "id": "act-1",
+      "action": "System Initialized",
+      "actor": "SHAKTI Core Engine",
+      "module": "system",
+      "status": "success",
+      "details": "SHAKTI Social Media AI v1.0 online. Gemini 3.8 Flash model linked.",
+      "timestamp": "2026-10-23T16:58:36.308Z"
+    },
+    {
+      "id": "act-2",
+      "action": "Content Approved",
+      "actor": "Kamal Das (Admin)",
+      "module": "calendar",
+      "status": "success",
+      "details": "Approved Bengali Facebook draft for scheduled slot: Tomorrow 11:00 AM.",
+      "timestamp": "2026-10-25T14:58:36.308Z"
+    },
+    {
+      "id": "act-3",
+      "action": "AI Studio Generation",
+      "actor": "Kamal Das",
+      "module": "ai_studio",
+      "status": "info",
+      "details": "Generated Hindi Instagram Reel script using Gemini 3.8 Flash.",
+      "timestamp": "2026-10-25T10:58:36.308Z"
+    }
+  ],
+  "platformConfigs": {
+    "youtube": {
+      "connected": false,
+      "status": "setup_required",
+      "clientIdConfigured": false,
+      "scopes": [
+        "https://www.googleapis.com/auth/youtube.upload",
+        "https://www.googleapis.com/auth/youtube.readonly",
+        "https://www.googleapis.com/auth/yt-analytics.readonly"
+      ],
+      "error": "Google Cloud Client ID and Secret not yet configured in environment."
+    },
+    "facebook": {
+      "connected": false,
+      "status": "setup_required",
+      "appIdConfigured": false,
+      "permissions": [
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list"
+      ],
+      "error": "Meta App ID and User Token awaiting configuration in App Dashboard."
+    },
+    "instagram": {
+      "connected": false,
+      "status": "setup_required",
+      "isProfessional": true,
+      "tokenConfigured": false,
+      "permissions": [
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_insights"
+      ],
+      "error": "Instagram Graph API requires linked Facebook Page and Professional IG account."
+    }
+  },
+  "securitySettings": {
+    "requireHumanApproval": true,
+    "autoScheduleEnabled": false,
+    "rateLimitSafeguard": true,
+    "logAuditRetentionDays": 90,
+    "multiLanguageFilter": true
+  },
+  "freeToolsConfig": {
+    "googleAppsScriptUrl": "",
+    "googleSheetName": "Saarthi_Enterprise_Master",
+    "autoSyncOrders": false,
+    "canvaDefaultPreset": "YOUTUBE_THUMBNAIL",
+    "geminiRequestsToday": 0,
+    "geminiFreeLimitDaily": 1500,
+    "lastBackupTimestamp": "2026-10-25T17:51:54.157Z",
+    "lastSheetsSyncTimestamp": "2026-10-25T17:58:44.578Z"
+  },
+  "users": [
+    {
+      "id": "user-admin-1",
+      "email": "kamaldas743273@gmail.com",
+      "name": "Kamal Das",
+      "role": "admin",
+      "passwordSalt": "6c1741a7f68b0efd40a1f1c1b6175c81",
+      "passwordHash": "8f95deb7881eaa770cc7bfc9b15563062a17c33eab3997448a31d065061dbdc3a13fffb22f51ca073e1f7aa05143d78042d2b20aa6d7e83bc7745c2f08cff485",
+      "isEmailVerified": true,
+      "failedLoginAttempts": 1,
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "lastLogin": "2026-10-25T18:12:08.120Z"
+    },
+    {
+      "id": "user-1792951938584",
+      "email": "teststaff@saarthienterprise.in",
+      "name": "Ananya Roy",
+      "role": "staff",
+      "passwordSalt": "96aa9afd7f0fce48a204cc194ce81c06",
+      "passwordHash": "cd946889154e2dfcc5528102facd13d682a4a5f855fda55c42b2b987c336e4d595eda5972b6311f0bbd5a9e40dc7ee95f98ebdb543af790458c6682e9a2323f3",
+      "isEmailVerified": true,
+      "lastVerificationSentAt": "2026-10-25T18:12:18.584Z",
+      "failedLoginAttempts": 0,
+      "createdAt": "2026-10-25T18:12:18.584Z",
+      "lastLogin": "2026-10-25T18:12:18.584Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "79cf61518851e776eba02b5000bf01e5f9f0cf086ba1504fbe412f1448d66023a6c030e7bdb9f69aae6a0cb8607bfcd5",
+      "userId": "user-admin-1",
+      "createdAt": "2026-10-25T18:12:07.109Z",
+      "expiresAt": "2026-11-24T18:12:07.109Z"
+    },
+    {
+      "token": "79eb1055302f158107da1926ad7c329245c80621f1bab7b3de8a6cfc23bc6886ad067341e54ab6c671d2f2a1f900258b",
+      "userId": "user-admin-1",
+      "createdAt": "2026-10-25T18:12:08.120Z",
+      "expiresAt": "2026-11-24T18:12:08.120Z"
+    },
+    {
+      "token": "74ae0a9e9a0bb4f92fa19d789bd3207b638d2eaa9033d773d9e4e31474191267881178011f83a64dbf33c2541184af7d",
+      "userId": "user-1792951938584",
+      "createdAt": "2026-10-25T18:12:18.584Z",
+      "expiresAt": "2026-11-01T18:12:18.584Z"
+    }
+  ],
+  "marketIntelligence": {
+    "lastUpdated": "2026-10-25T18:12:28.055Z",
+    "status": "FRESH",
+    "totalOpportunities": 5,
+    "averageMarginPercent": 43,
+    "products": [
+      {
+        "id": "market-prod-1",
+        "title": "Authentic Bengali Panch Phoron 5-Spice Blend (250g Glass Jar)",
+        "category": "food_spices_masala",
+        "categoryLabel": "Spices & Shakti Masala",
+        "targetRegion": "Kolkata, West Bengal & Pan-India Regional Foodies",
+        "lastUpdated": "2026-10-25T09:30:00.000Z",
+        "recommendation": "SCALE_CATALOG",
+        "approvalStatus": "APPROVED",
+        "approvedAt": "2026-10-24T16:00:00.000Z",
+        "approvedBy": "Kamal Das (Administrator)",
+        "actualPerformance": {
+          "sales": 84,
+          "actualProfit": 5754,
+          "roiPercent": 124.5
+        },
+        "scores": {
+          "demandEvidence": 24,
+          "customerFeedback": 19,
+          "competitionDiff": 14,
+          "profitMargin": 19,
+          "supplierReliability": 10,
+          "operationalRisk": 9,
+          "totalScore": 95,
+          "confidenceLevel": "HIGH",
+          "unknownFactors": [
+            "Seasonal price volatility of Radhuni (wild celery seed) between monsoon and winter harvests in Bengal mandis."
+          ],
+          "rankingRationale": "Highest customer repeat rate among spice blends. Authentic Radhuni inclusion creates stark differentiation from commercial supermarket brands that substitute mustard."
+        },
+        "unitEconomics": {
+          "supplierCost": 55,
+          "sellingPrice": 175,
+          "gstRate": 5,
+          "gstAmount": 8.75,
+          "packagingShippingCost": 35,
+          "platformFee": 3.5,
+          "adOrAffiliateCommission": 9.25,
+          "expectedReturnRatePercent": 1.5,
+          "expectedDamageLoss": 2.5,
+          "contributionProfitPerUnit": 69.75,
+          "contributionMarginPercent": 39.86,
+          "costAssumptions": [
+            "Supplier cost verified at Burrabazar Spices Wholesale Guild (Kolkata).",
+            "Selling price benchmarked against Amazon & Flipkart direct seller listings.",
+            "GST 5% output tax remitted to government, Input Tax Credit (ITC) recoverable on raw procurement.",
+            "Packaging in food-grade airtight PET jar with induction seal."
+          ]
+        },
+        "reviewInsights": [
+          {
+            "id": "rev-1",
+            "category": "POSITIVE_FEATURES",
+            "summary": "Authentic Radhuni inclusion provides true heirloom Bengali aroma.",
+            "evidenceQuote": "Most store-bought panch phoron uses yellow mustard instead of genuine Radhuni. Saarthi’s mix has real Radhuni and gives that unmistakable Maachher Jhol aroma.",
+            "sourceUrl": "https://amazon.in/dp/B07PANCHPHORON/customer-reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-2",
+            "category": "QUALITY_PACKAGING_COMPLAINTS",
+            "summary": "Moisture ingress risk if seal is torn improperly during humid monsoon.",
+            "evidenceQuote": "In humid Kolkata weather the fenugreek and fennel can absorb moisture if the jar seal is damaged in courier transit.",
+            "sourceUrl": "https://saarthienterprise.in/reviews/panch-phoron",
+            "frequency": "MEDIUM",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-3",
+            "category": "PRICE_VALUE_OBJECTIONS",
+            "summary": "Individual delivery fee on a single ₹175 item causes cart drop-off.",
+            "evidenceQuote": "The spice blend is superb, but paying ₹50 courier on a ₹175 bottle is painful. Better to bundle 3 bottles together for free shipping.",
+            "sourceUrl": "https://flipkart.com/panch-phoron-reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-4",
+            "category": "DELIVERY_RETURNS",
+            "summary": "Express 48-hour delivery in Kolkata metro; 4-5 days to southern India.",
+            "evidenceQuote": "Delivered in Behala within 2 days. For Bangalore delivery it took 5 days via Delhivery Surface.",
+            "sourceUrl": "https://saarthienterprise.in/tracking/SAR-2026-1001",
+            "frequency": "LOW",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-5",
+            "category": "UNMET_NEEDS",
+            "summary": "Customers demand pre-roasted ready-to-crush \"Bhaja Moshla\" variant.",
+            "evidenceQuote": "Can you also launch a roasted powdered version of this for sprinkling on Ghugni, Alur Dom and Chatpati?",
+            "sourceUrl": "https://facebook.com/saarthienterprise/comments",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          }
+        ],
+        "sources": [
+          {
+            "id": "src-1",
+            "name": "Burrabazar Spice Merchant Guild Daily Price Bulletin",
+            "sourceUrl": "https://agmarknet.gov.in/PriceTrends/Kolkata",
+            "researchDate": "2026-10-24",
+            "observedFacts": "Raw cumin at ₹240/kg, fennel at ₹160/kg, fenugreek at ₹85/kg, nigella at ₹195/kg, radhuni at ₹480/kg. Blended cost per 250g is ₹48-₹55.",
+            "limitations": "Mandis rates fluctuate weekly based on seasonal arrivals from Gujarat and Bengal fields.",
+            "status": "ACCESSIBLE"
+          },
+          {
+            "id": "src-2",
+            "name": "Google Trends India — Culinary Keyword Query Index",
+            "sourceUrl": "https://trends.google.com/trends/explore?geo=IN&q=panch+phoron,bengali+spices",
+            "researchDate": "2026-10-23",
+            "observedFacts": "Search interest maintains stable baseline index of 68 throughout year with peaks during Puja festival.",
+            "limitations": "Indicates consumer search appetite; does not guarantee e-commerce cart completion.",
+            "status": "ACCESSIBLE"
+          },
+          {
+            "id": "src-3",
+            "name": "Public Marketplace Listings (Amazon & Flipkart)",
+            "sourceUrl": "https://amazon.in/s?k=bengali+panch+phoron",
+            "researchDate": "2026-10-24",
+            "observedFacts": "Leading 250g brands retail between ₹165 and ₹249 with average customer rating of 4.3/5 across 1,400+ reviews.",
+            "limitations": "Competitor sales velocity estimated via rank and review velocity rather than direct internal ledger.",
+            "status": "ACCESSIBLE"
+          }
+        ],
+        "marketingDraft": {
+          "headline": "Authentic Bengali Panch Phoron with Genuine Radhuni — Saarthi Enterprise",
+          "hook": "Are you getting real Radhuni in your Panch Phoron, or just cheap mustard filler?",
+          "bodyEnglish": "Experience the true heirloom aroma of Bengal. Hand-blended in Kolkata with equal-ratio Nigella, Fennel, Fenugreek, Cumin, and genuine wild Radhuni. Sealed fresh in aroma-barrier pet jars.",
+          "bodyBengali": "আসল রাঁধুনি দেওয়া খাঁটি পাঁচফোড়ন — কলকাতার বড়বাজার থেকে সরাসরি। মাছে-ভাতে বাঙালির চচ্চড়ি, ডাল আর তরকারিতে আনুন সেই সাবেকি গন্ধ ও স্বাদ। ১০০% খাঁটি, কোনো ভেজাল নেই।",
+          "bodyHindi": "बंगाल का प्रामाणिक पांच फोड़न — असली राधुनी के साथ। अपने दाल, तड़का और सब्जियों को दें पारंपरिक कोलकाता रसोई का सोंधा स्वाद।",
+          "targetAudience": "Bengali homemakers, food bloggers, diaspora living in Bengaluru/Mumbai/Delhi, traditional culinary lovers.",
+          "painPointAddressed": "Commercially packaged brands replace expensive Radhuni with yellow mustard, destroying authentic taste.",
+          "sevenDayOrganicPlan": [
+            {
+              "day": 1,
+              "platform": "instagram",
+              "focus": "Ingredient Breakdown Reel",
+              "draftAction": "Close-up video showing Radhuni vs Mustard seeds side-by-side."
+            },
+            {
+              "day": 2,
+              "platform": "facebook",
+              "focus": "Heritage Recipe Post",
+              "draftAction": "Traditional Shukto and Machher Jhol tempering recipe with carousel photo."
+            },
+            {
+              "day": 3,
+              "platform": "youtube",
+              "focus": "Aroma Purity Short",
+              "draftAction": "Sound-on tempering sizzle video showing whole seeds crackling in pure mustard oil."
+            },
+            {
+              "day": 4,
+              "platform": "facebook",
+              "focus": "Customer Testimonial",
+              "draftAction": "Quote from verified Kolkata chef reviewing aroma comparison."
+            },
+            {
+              "day": 5,
+              "platform": "instagram",
+              "focus": "Packaging Seal Showcase",
+              "draftAction": "Behind-the-scenes video showing tamper-evident induction jar sealing."
+            },
+            {
+              "day": 6,
+              "platform": "youtube",
+              "focus": "Combo Saver Announcement",
+              "draftAction": "3-Jar Spice Kitchen Pack launch post with free shipping coupon."
+            },
+            {
+              "day": 7,
+              "platform": "facebook",
+              "focus": "Weekly Order Dispatch",
+              "draftAction": "Video of packed boxes ready for Delhivery courier pickup."
+            }
+          ]
+        }
+      },
+      {
+        "id": "market-prod-2",
+        "title": "Handloom Tant Cotton Saree (Phulia/Shantipur Weave with Floral Buti)",
+        "category": "fashion_sarees_kurtis",
+        "categoryLabel": "Fashion & Sarees",
+        "targetRegion": "West Bengal, Assam, Tripura & Pan-India Ethnic Shoppers",
+        "lastUpdated": "2026-10-25T08:15:00.000Z",
+        "recommendation": "TEST_ORGANIC",
+        "approvalStatus": "APPROVED",
+        "scores": {
+          "demandEvidence": 24,
+          "customerFeedback": 18,
+          "competitionDiff": 13,
+          "profitMargin": 18,
+          "supplierReliability": 9,
+          "operationalRisk": 8,
+          "totalScore": 90,
+          "confidenceLevel": "HIGH",
+          "unknownFactors": [
+            "Apparel return rates benchmark between 12-16% on e-commerce due to subjective color perception on mobile screens."
+          ],
+          "rankingRationale": "Tremendous organic demand for comfortable 100-count cotton sarees for summer, festivals, and daily office wear. Sourcing direct from Phulia weavers guarantees high margins."
+        },
+        "unitEconomics": {
+          "supplierCost": 450,
+          "sellingPrice": 1150,
+          "gstRate": 5,
+          "gstAmount": 57.5,
+          "packagingShippingCost": 75,
+          "platformFee": 23,
+          "adOrAffiliateCommission": 65,
+          "expectedReturnRatePercent": 12,
+          "expectedDamageLoss": 35,
+          "contributionProfitPerUnit": 444.5,
+          "contributionMarginPercent": 38.65,
+          "costAssumptions": [
+            "Direct procurement from cooperative weavers cluster in Phulia (Nadia District).",
+            "Return loss buffer accounts for two-way shipping in 12% of orders without fabric damage.",
+            "GST at 5% for apparel under ₹1,000 threshold basis (or 12% if priced higher; strictly segregated)."
+          ]
+        },
+        "reviewInsights": [
+          {
+            "id": "rev-6",
+            "category": "POSITIVE_FEATURES",
+            "summary": "Extremely lightweight, breathable pure cotton fabric ideal for Indian summers.",
+            "evidenceQuote": "The saree is so soft and lightweight. It breathes easily even at 38 degrees humidity.",
+            "sourceUrl": "https://meesho.com/phulia-tant-saree/reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-7",
+            "category": "QUALITY_PACKAGING_COMPLAINTS",
+            "summary": "Pallu thread ends fray if weaver has not applied proper edge lock.",
+            "evidenceQuote": "Beautiful weave but the ends of the pallu had loose threads that needed manual trimming.",
+            "sourceUrl": "https://amazon.in/dp/B08TANTCOTTON/reviews",
+            "frequency": "MEDIUM",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-8",
+            "category": "PRICE_VALUE_OBJECTIONS",
+            "summary": "Comparing online prices with physical Hatibagan or Gariahat market bargains.",
+            "evidenceQuote": "In Gariahat street stalls similar cotton sarees go for ₹900, but online sellers charge ₹1,400.",
+            "sourceUrl": "https://flipkart.com/tant-sarees-bengal",
+            "frequency": "MEDIUM",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-9",
+            "category": "DELIVERY_RETURNS",
+            "summary": "Wrinkles during folding in courier transit require steam pressing before gifting.",
+            "evidenceQuote": "Delivered safely in 3 days, but packaging was tightly folded so heavy ironing was needed.",
+            "sourceUrl": "https://saarthienterprise.in/inquiries",
+            "frequency": "LOW",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-10",
+            "category": "UNMET_NEEDS",
+            "summary": "Customers strongly prefer sarees bundled with ready-stitched matching blouse piece & falls.",
+            "evidenceQuote": "Wish this came with pre-stitched fall and pico so I wouldn’t have to visit tailor.",
+            "sourceUrl": "https://instagram.com/comments/bengal_sarees",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          }
+        ],
+        "sources": [
+          {
+            "id": "src-4",
+            "name": "Weavers Service Centre & Nadia Co-operative Wholesale Price Index",
+            "sourceUrl": "https://handlooms.nic.in/clusters/nadia-phulia",
+            "researchDate": "2026-10-23",
+            "observedFacts": "Pure 100s count cotton sarees with jacquard border wholesale between ₹420 and ₹490 at master weaver clusters.",
+            "limitations": "Requires minimum order quantities (MOQ) of 15-20 pieces per colorway for best price tier.",
+            "status": "ACCESSIBLE"
+          },
+          {
+            "id": "src-5",
+            "name": "Google Trends India — \"Tant Saree Online\"",
+            "sourceUrl": "https://trends.google.com/trends/explore?geo=IN&q=tant+saree,cotton+saree",
+            "researchDate": "2026-10-24",
+            "observedFacts": "Searches surge by 85% during Durga Puja and Poila Boishakh (Bengali New Year) seasons with steady year-round baseline.",
+            "limitations": "High search competition from established national marketplaces (Myntra, Ajio, Meesho).",
+            "status": "ACCESSIBLE"
+          }
+        ],
+        "marketingDraft": {
+          "headline": "Pure Phulia Handloom Tant Saree — Handwoven Bengal Cotton Elegance",
+          "hook": "Tired of stiff polyester replicas? Wear 100% authentic handloom cotton directly from Nadia weavers.",
+          "bodyEnglish": "Handcrafted with airy 100-count pure cotton yarn, traditional temple border, and delicate floral butis. Drapes effortlessly and stays cool all day. Direct from artisan clusters to your doorstep.",
+          "bodyBengali": "নদীয়ার ফুলিয়ার আসল তাঁতের শাড়ি — ১০০% সুতির শীতল স্পর্শ। ঐতিহ্যবাহী পাড় ও সুক্ষ্ম বুটির কাজে সাজিয়ে তুলুন আপনার প্রতিদিনের সাজ। আরামদায়ক ও আভিজাত্যপূর্ণ।",
+          "bodyHindi": "पश्चिम बंगाल के फूलिया की असली हथकरघा तांत साड़ी। 100% शुद्ध सूती धागे से बुनी, बेहद हल्की और गर्मियों के लिए सर्वोत्तम।",
+          "targetAudience": "Women aged 25-55, working professionals, Bengali festive shoppers, handloom saree collectors.",
+          "painPointAddressed": "Machine-made polyester copies sold under the name of handloom cotton that cause sweating and rashes.",
+          "sevenDayOrganicPlan": [
+            {
+              "day": 1,
+              "platform": "instagram",
+              "focus": "Loom Sound ASMR",
+              "draftAction": "Short reel capturing wooden handloom shuttle clicking in Phulia workshop."
+            },
+            {
+              "day": 2,
+              "platform": "facebook",
+              "focus": "Drape & Styling Tutorial",
+              "draftAction": "30-second easy pleating and drape guide for busy mornings."
+            },
+            {
+              "day": 3,
+              "platform": "youtube",
+              "focus": "Pure Cotton Burn Test",
+              "draftAction": "Fabric authenticity test demonstrating zero synthetic melting or smoke."
+            },
+            {
+              "day": 4,
+              "platform": "instagram",
+              "focus": "Colorway Carousel",
+              "draftAction": "High-res photos of 6 pastel shades shot in natural daylight."
+            },
+            {
+              "day": 5,
+              "platform": "facebook",
+              "focus": "Artisan Story",
+              "draftAction": "Meet Master Weaver Subhash Pal who spent 3 days crafting this pattern."
+            },
+            {
+              "day": 6,
+              "platform": "youtube",
+              "focus": "Pre-Fall & Pico Service",
+              "draftAction": "Announcement of free fall and pico edging for first 25 orders."
+            },
+            {
+              "day": 7,
+              "platform": "facebook",
+              "focus": "Customer Review Highlight",
+              "draftAction": "Photo review shared by a teacher wearing the saree to school."
+            }
+          ]
+        },
+        "approvedAt": "2026-10-25T18:12:40.555Z",
+        "approvedBy": "Kamal Das (Administrator)"
+      },
+      {
+        "id": "market-prod-3",
+        "title": "360° Revolving Stainless Steel Spice Carousel (16 Airtight Glass Jars)",
+        "category": "household_tools_accessories",
+        "categoryLabel": "Household & Kitchenware",
+        "targetRegion": "Pan-India Urban Kitchens",
+        "lastUpdated": "2026-10-25T07:45:00.000Z",
+        "recommendation": "SCALE_CATALOG",
+        "approvalStatus": "NEEDS_APPROVAL",
+        "scores": {
+          "demandEvidence": 23,
+          "customerFeedback": 17,
+          "competitionDiff": 13,
+          "profitMargin": 17,
+          "supplierReliability": 9,
+          "operationalRisk": 8,
+          "totalScore": 87,
+          "confidenceLevel": "HIGH",
+          "unknownFactors": [
+            "Glass jars require double-bubble thermocol padding to prevent courier transit breakage."
+          ],
+          "rankingRationale": "Complements Saarthi’s core spice sales perfectly as a high-ticket cross-sell bundle. High visual appeal in cooking reels."
+        },
+        "unitEconomics": {
+          "supplierCost": 480,
+          "sellingPrice": 1099,
+          "gstRate": 18,
+          "gstAmount": 167.64,
+          "packagingShippingCost": 110,
+          "platformFee": 22,
+          "adOrAffiliateCommission": 75,
+          "expectedReturnRatePercent": 4,
+          "expectedDamageLoss": 45,
+          "contributionProfitPerUnit": 199.36,
+          "contributionMarginPercent": 18.14,
+          "costAssumptions": [
+            "Supplier cost verified with Howrah hardware & kitchenware manufacturing distributor.",
+            "Volumetric weight is 1.8kg requiring heavy-duty courier slab.",
+            "Damage replacement insurance factor built into costs."
+          ]
+        },
+        "reviewInsights": [
+          {
+            "id": "rev-11",
+            "category": "POSITIVE_FEATURES",
+            "summary": "Smooth 360-degree ball-bearing rotation and compact kitchen counter footprint.",
+            "evidenceQuote": "Rotates very smoothly without wobbling, saves half the counter space in my small kitchen.",
+            "sourceUrl": "https://amazon.in/dp/B08SPICECAROUSEL/reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-12",
+            "category": "QUALITY_PACKAGING_COMPLAINTS",
+            "summary": "Occasional broken jar if courier package is dropped by logistics handler.",
+            "evidenceQuote": "One glass jar had a hairline crack upon arrival. Seller replaced it promptly within 3 days.",
+            "sourceUrl": "https://saarthienterprise.in/support",
+            "frequency": "MEDIUM",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-13",
+            "category": "PRICE_VALUE_OBJECTIONS",
+            "summary": "Buyers compare with cheaper all-plastic 12-jar rotating racks at ₹499.",
+            "evidenceQuote": "A bit pricier than plastic organizers, but the steel stand and glass jars feel much more premium.",
+            "sourceUrl": "https://flipkart.com/spice-rack-reviews",
+            "frequency": "LOW",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-14",
+            "category": "DELIVERY_RETURNS",
+            "summary": "Bulky box packaging needs sturdy reinforced carton.",
+            "evidenceQuote": "Packaging was well-padded with thermocol corners.",
+            "sourceUrl": "https://saarthienterprise.in/tracking/SAR-2026-1002",
+            "frequency": "LOW",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-15",
+            "category": "UNMET_NEEDS",
+            "summary": "Customers request pre-printed waterproof spice name stickers in English and Hindi/Bengali.",
+            "evidenceQuote": "Please provide printed labels for Haldi, Mirch, Dhaniya, Jeera so we do not have to write by hand.",
+            "sourceUrl": "https://saarthienterprise.in/feedback",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          }
+        ],
+        "sources": [
+          {
+            "id": "src-6",
+            "name": "Bengal Kitchenware & Hardware Wholesale Mandi (Howrah)",
+            "sourceUrl": "https://howrahmanufacturers.org/kitchen-tools",
+            "researchDate": "2026-10-22",
+            "observedFacts": "Bulk carton price for 16-jar rotating rack is ₹480 per unit in lots of 10.",
+            "limitations": "Supplier lead time 2-3 business days when stock depletes.",
+            "status": "ACCESSIBLE"
+          },
+          {
+            "id": "src-7",
+            "name": "Amazon India Kitchen Bestsellers Category Ranks",
+            "sourceUrl": "https://amazon.in/gp/bestsellers/kitchen/1380388031",
+            "researchDate": "2026-10-24",
+            "observedFacts": "Top 3 carousel brands average ₹999-₹1,249 with 3,500+ monthly purchases.",
+            "limitations": "High return risk if courier does not handle glass jars with fragile sticker.",
+            "status": "ACCESSIBLE"
+          }
+        ],
+        "marketingDraft": {
+          "headline": "Organize Your Kitchen with 360° Rotating Stainless Steel Spice Carousel",
+          "hook": "Stop searching through 20 messy spice jars while your curry is burning on the stove!",
+          "bodyEnglish": "Keep your 16 essential spices at your fingertips. Premium food-grade glass jars with 2-way sprinkler lids and smooth revolving stainless steel base. Includes waterproof labels.",
+          "bodyBengali": "রান্নাঘরে মশলা খোঁজার ঝামেলা শেষ! ১৬টি এয়ারটাইট কাঁচের জার সহ ৩৬০ ডিগ্রি ঘূর্ণায়মান স্টেইনলেস স্টিল মশলা রেক। সুন্দর ও মজবুত।",
+          "bodyHindi": "अपनी रसोई को दें आधुनिक और साफ-सुथरा लुक। 16 जार वाला 360° घूमने वाला स्टेनलेस स्टील मसाला रैक।",
+          "targetAudience": "Home cooks, modern apartment dwellers, wedding gift shoppers, modular kitchen owners.",
+          "painPointAddressed": "Cluttered kitchen counters and lost spice jars during fast cooking.",
+          "sevenDayOrganicPlan": [
+            {
+              "day": 1,
+              "platform": "youtube",
+              "focus": "Kitchen Transformation Short",
+              "draftAction": "Before vs After 15-second transformation of messy spice shelf."
+            },
+            {
+              "day": 2,
+              "platform": "instagram",
+              "focus": "Spin ASMR",
+              "draftAction": "Satisfying spin video showing jars filled with vibrant colorful Saarthi spices."
+            },
+            {
+              "day": 3,
+              "platform": "facebook",
+              "focus": "Waterproof Label Test",
+              "draftAction": "Water splash test on spice labels showing zero smudge."
+            },
+            {
+              "day": 4,
+              "platform": "instagram",
+              "focus": "Bundle Offer Post",
+              "draftAction": "Buy Carousel + Get 4 Saarthi Spices at 50% discount announcement."
+            },
+            {
+              "day": 5,
+              "platform": "youtube",
+              "focus": "Fragile Box Unboxing",
+              "draftAction": "Unboxing video showing multi-layer thermocol safety protection."
+            },
+            {
+              "day": 6,
+              "platform": "facebook",
+              "focus": "Customer Review Showcase",
+              "draftAction": "Photo review sent by customer showing carousel in new modular kitchen."
+            },
+            {
+              "day": 7,
+              "platform": "instagram",
+              "focus": "Limited Stock Reminder",
+              "draftAction": "Announcement of only 12 units remaining in current Howrah batch."
+            }
+          ]
+        }
+      },
+      {
+        "id": "market-prod-4",
+        "title": "Cordless USB Rechargeable Mini Garlic & Masala Chopper (250ml)",
+        "category": "dropshipping_trending",
+        "categoryLabel": "Dropshipping Opportunities",
+        "targetRegion": "Pan-India E-Commerce",
+        "lastUpdated": "2026-10-25T08:50:00.000Z",
+        "recommendation": "TEST_ORGANIC",
+        "approvalStatus": "NEEDS_APPROVAL",
+        "scores": {
+          "demandEvidence": 22,
+          "customerFeedback": 16,
+          "competitionDiff": 12,
+          "profitMargin": 17,
+          "supplierReliability": 8,
+          "operationalRisk": 8,
+          "totalScore": 83,
+          "confidenceLevel": "MEDIUM",
+          "unknownFactors": [
+            "Battery life longevity varies across budget Chinese motor variants; need supplier sample test."
+          ],
+          "rankingRationale": "High impulse-purchase price point under ₹500 with strong viral demonstration potential on Reels and Shorts."
+        },
+        "unitEconomics": {
+          "supplierCost": 170,
+          "sellingPrice": 449,
+          "gstRate": 18,
+          "gstAmount": 68.49,
+          "packagingShippingCost": 55,
+          "platformFee": 9,
+          "adOrAffiliateCommission": 45,
+          "expectedReturnRatePercent": 8,
+          "expectedDamageLoss": 20,
+          "contributionProfitPerUnit": 81.51,
+          "contributionMarginPercent": 18.15,
+          "costAssumptions": [
+            "Direct dropship supplier fulfillment with Howrah/Delhi supplier hubs.",
+            "USB cable and stainless 3-blade assembly included in box."
+          ]
+        },
+        "reviewInsights": [
+          {
+            "id": "rev-16",
+            "category": "POSITIVE_FEATURES",
+            "summary": "Chops garlic, ginger, and green chillies in 10 seconds without smelly hands.",
+            "evidenceQuote": "Chops 10 garlic cloves in 5 pulses. No garlic smell on my fingers!",
+            "sourceUrl": "https://meesho.com/mini-chopper-reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-17",
+            "category": "QUALITY_PACKAGING_COMPLAINTS",
+            "summary": "Do not overload motor with hard nuts or frozen ingredients.",
+            "evidenceQuote": "Works great for onions and garlic, but struggles if you put raw hard turmeric.",
+            "sourceUrl": "https://amazon.in/dp/B08MINICHOPPER",
+            "frequency": "HIGH",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-18",
+            "category": "PRICE_VALUE_OBJECTIONS",
+            "summary": "Cheap plastic body in some unbranded batches.",
+            "evidenceQuote": "Good value for ₹450, but do not drop it on ceramic tile floor.",
+            "sourceUrl": "https://flipkart.com/mini-chopper-feedback",
+            "frequency": "MEDIUM",
+            "sentimentScore": 3
+          },
+          {
+            "id": "rev-19",
+            "category": "DELIVERY_RETURNS",
+            "summary": "Charge battery fully before first use.",
+            "evidenceQuote": "Arrived with zero charge. Plugged in for 2 hours and worked smoothly.",
+            "sourceUrl": "https://saarthienterprise.in/inquiries",
+            "frequency": "LOW",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-20",
+            "category": "UNMET_NEEDS",
+            "summary": "Customers want spare blade replacement option in case blade dulls after 6 months.",
+            "evidenceQuote": "Would love if seller offered an extra spare blade set.",
+            "sourceUrl": "https://instagram.com/comments/mini-chopper",
+            "frequency": "LOW",
+            "sentimentScore": 4
+          }
+        ],
+        "sources": [
+          {
+            "id": "src-8",
+            "name": "Indiamart & Howrah Dropship Importers Directory",
+            "sourceUrl": "https://dir.indiamart.com/kolkata/electric-choppers",
+            "researchDate": "2026-10-23",
+            "observedFacts": "Bulk dropship unit cost between ₹160 and ₹185 with same-day dispatch.",
+            "limitations": "Supplier must verify battery BIS safety certification.",
+            "status": "ACCESSIBLE"
+          }
+        ],
+        "marketingDraft": {
+          "headline": "Chop Garlic, Ginger & Chillies in 10 Seconds — Mini Electric USB Chopper",
+          "hook": "Still crying while chopping onions and washing smelly garlic from your hands?",
+          "bodyEnglish": "One-touch wireless electric chopper with razor-sharp 3-tier stainless steel blades. USB rechargeable, lightweight, and rinses clean in 5 seconds under tap water.",
+          "bodyBengali": "হাত দিয়ে রসুন-লঙ্কা কাটার ঝামেলা চিরতরে বন্ধ! ইউএসবি রিচার্জেবল মিনি ইলেকট্রিক চপার — মাত্র ১০ সেকেন্ডে কুচি কুচি মশলা প্রস্তুত।",
+          "bodyHindi": "लहसुन, प्याज और मिर्च को सिर्फ 10 सेकंड में बारीक काटें। यूएसबी रिचार्जेबल वायरलेस मिनी चॉपर।",
+          "targetAudience": "Hostel students, working couples, bachelor kitchens, daily cooks.",
+          "painPointAddressed": "Time-consuming manual chopping and pungent garlic residue on fingers.",
+          "sevenDayOrganicPlan": [
+            {
+              "day": 1,
+              "platform": "instagram",
+              "focus": "10-Second Timer Challenge",
+              "draftAction": "Real-time countdown timer chopping a whole bowl of garlic."
+            },
+            {
+              "day": 2,
+              "platform": "youtube",
+              "focus": "Ginger & Green Chilli Demo",
+              "draftAction": "Short showing quick prep for morning tea and curry paste."
+            },
+            {
+              "day": 3,
+              "platform": "facebook",
+              "focus": "Tap Rinse Video",
+              "draftAction": "5-second quick rinse under running water demonstrating zero blade mess."
+            },
+            {
+              "day": 4,
+              "platform": "instagram",
+              "focus": "Hostel Cooking Reel",
+              "draftAction": "Student demonstrating making quick Maggi seasoning paste."
+            },
+            {
+              "day": 5,
+              "platform": "facebook",
+              "focus": "Price Comparison Infographic",
+              "draftAction": "Comparing ₹449 price with expensive ₹2,500 food processors."
+            },
+            {
+              "day": 6,
+              "platform": "youtube",
+              "focus": "Battery Life Test",
+              "draftAction": "Showing 30 cycles of chopping on a single USB charge."
+            },
+            {
+              "day": 7,
+              "platform": "facebook",
+              "focus": "Cash On Delivery Promo",
+              "draftAction": "COD available across India with 5-day return guarantee."
+            }
+          ]
+        }
+      },
+      {
+        "id": "market-prod-5",
+        "title": "Preethi Zodiac Cosmo 750W Heavy-Duty Mixer Grinder (4 Stainless Jars)",
+        "category": "affiliate_appliances",
+        "categoryLabel": "Affiliate Marketing",
+        "targetRegion": "Pan-India Home Chefs",
+        "lastUpdated": "2026-10-25T09:10:00.000Z",
+        "recommendation": "SCALE_CATALOG",
+        "approvalStatus": "APPROVED",
+        "approvedAt": "2026-10-24T18:00:00.000Z",
+        "approvedBy": "Kamal Das (Administrator)",
+        "actualPerformance": {
+          "sales": 4,
+          "actualProfit": 1867.8,
+          "roiPercent": 100
+        },
+        "scores": {
+          "demandEvidence": 24,
+          "customerFeedback": 19,
+          "competitionDiff": 13,
+          "profitMargin": 15,
+          "supplierReliability": 10,
+          "operationalRisk": 10,
+          "totalScore": 91,
+          "confidenceLevel": "HIGH",
+          "unknownFactors": [
+            "Affiliate commission tracking cookie window is 24 hours on Amazon Associates India."
+          ],
+          "rankingRationale": "Zero capital investment required. Directly tied to spice grinding video content where viewers immediately ask \"Which mixer did you use for this fine powder?\"."
+        },
+        "unitEconomics": {
+          "supplierCost": 0,
+          "sellingPrice": 8499,
+          "gstRate": 0,
+          "gstAmount": 0,
+          "packagingShippingCost": 0,
+          "platformFee": 0,
+          "adOrAffiliateCommission": 467.44,
+          "expectedReturnRatePercent": 0,
+          "expectedDamageLoss": 0,
+          "contributionProfitPerUnit": 467.44,
+          "contributionMarginPercent": 100,
+          "costAssumptions": [
+            "Amazon Associates India commission rate for Large & Small Kitchen Appliances is 5.5%.",
+            "Zero inventory holding cost, zero transit loss, zero return risk for Saarthi."
+          ]
+        },
+        "reviewInsights": [
+          {
+            "id": "rev-21",
+            "category": "POSITIVE_FEATURES",
+            "summary": "Powerful 750W Vega W5 motor grinds tough turmeric roots and garam masala seeds into velvet powder.",
+            "evidenceQuote": "Grinds rock-hard Lakadong turmeric rhizomes into fine powder in 90 seconds without motor overheating.",
+            "sourceUrl": "https://amazon.in/dp/B08XYZDEMO/reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-22",
+            "category": "QUALITY_PACKAGING_COMPLAINTS",
+            "summary": "High motor noise during dry spice grinding mode.",
+            "evidenceQuote": "Motor is very powerful but it is noisy (about 80 dB), which is normal for 750W heavy duty.",
+            "sourceUrl": "https://amazon.in/dp/B08XYZDEMO/reviews",
+            "frequency": "HIGH",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-23",
+            "category": "PRICE_VALUE_OBJECTIONS",
+            "summary": "Pricier than 500W entry-level mixers, but lasts years longer.",
+            "evidenceQuote": "Priced around ₹8,500, but the Master Chef food processor jar saves hours of dough kneading.",
+            "sourceUrl": "https://flipkart.com/preethi-zodiac-reviews",
+            "frequency": "MEDIUM",
+            "sentimentScore": 4
+          },
+          {
+            "id": "rev-24",
+            "category": "DELIVERY_RETURNS",
+            "summary": "Amazon Prime 1-day delivery with 2-year manufacturer doorstep warranty.",
+            "evidenceQuote": "Delivered next day in Kolkata. Technician came to demonstrate attachments.",
+            "sourceUrl": "https://amazon.in/customer-service",
+            "frequency": "LOW",
+            "sentimentScore": 5
+          },
+          {
+            "id": "rev-25",
+            "category": "UNMET_NEEDS",
+            "summary": "Users want precise timing guidelines for grinding each traditional Indian spice.",
+            "evidenceQuote": "Would be helpful if they included a guide for seconds required for Biryani masala vs Garam masala.",
+            "sourceUrl": "https://youtube.com/comments/saarthi_preethi_review",
+            "frequency": "MEDIUM",
+            "sentimentScore": 5
+          }
+        ],
+        "sources": [
+          {
+            "id": "src-9",
+            "name": "Amazon Associates India Affiliate Commission Schedule",
+            "sourceUrl": "https://affiliate-program.amazon.in/help/node/topic/G202047300",
+            "researchDate": "2026-10-24",
+            "observedFacts": "Standard commission for Kitchen Appliances is 5.5% on verified customer purchases.",
+            "limitations": "Attribution window is 24 hours; commission reversed if buyer returns appliance within 10-day window.",
+            "status": "ACCESSIBLE"
+          }
+        ],
+        "marketingDraft": {
+          "headline": "How We Grind Pure Spices at Saarthi — Preethi Zodiac 750W Heavy-Duty Grinder",
+          "hook": "Can your regular mixer grinder turn whole dried turmeric into super-fine aromatic powder without smoking?",
+          "bodyEnglish": "The exact machine we recommend for grinding Saarthi whole spices at home. 750W Vega motor with 3-speed control and overload protection. Includes 4 heavy-gauge stainless jars.",
+          "bodyBengali": "বাড়িতে খাঁটি মশলা গুঁড়ো করার সেরা মেশিন। ৭৫০ ওয়াটের শক্তিশালী প্রিথি জোডিয়াক মিক্সার গ্রাইন্ডার। সম্পূর্ণ হলুদের টুকরোও গুঁড়ো করে নিমিষে।",
+          "bodyHindi": "घर पर खड़े मसालों को पीसने का सबसे शक्तिशाली 750 वॉट मिक्सर ग्राइंडर।",
+          "targetAudience": "Home cooking enthusiasts, biryani cooks, health-conscious families.",
+          "painPointAddressed": "Burned-out 500W mixers when trying to grind hard Indian spices at home.",
+          "sevenDayOrganicPlan": [
+            {
+              "day": 1,
+              "platform": "youtube",
+              "focus": "Rock Turmeric Grinding Test",
+              "draftAction": "Grinding hard Lakadong turmeric in 60 seconds with temperature check."
+            },
+            {
+              "day": 2,
+              "platform": "instagram",
+              "focus": "Biryani Masala Blend Demo",
+              "draftAction": "Live blending of 12 whole spices into fine royal biryani powder."
+            },
+            {
+              "day": 3,
+              "platform": "facebook",
+              "focus": "Affiliate Disclosure & Buying Guide",
+              "draftAction": "Transparent breakdown of 2-year warranty and verified Amazon discount link."
+            },
+            {
+              "day": 4,
+              "platform": "youtube",
+              "focus": "Noise & Vibration Comparison",
+              "draftAction": "Side-by-side comparison with budget 500W mixer."
+            },
+            {
+              "day": 5,
+              "platform": "instagram",
+              "focus": "Atta Kneading Attachment Demo",
+              "draftAction": "Kneading soft roti dough in 1 minute using food processor jar."
+            },
+            {
+              "day": 6,
+              "platform": "facebook",
+              "focus": "Community Spice Q&A",
+              "draftAction": "Answering audience questions on spice shelf-life after grinding."
+            },
+            {
+              "day": 7,
+              "platform": "youtube",
+              "focus": "Weekend Recipe Live",
+              "draftAction": "Cooking traditional Kosha Mangsho using freshly ground spice mix."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SHAKTI Social Media AI",
+  "description": "Enterprise AI-powered Social Media Management Platform with multi-platform agents, multilingual studio, content calendar, and unified analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

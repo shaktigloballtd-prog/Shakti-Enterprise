@@ -1,0 +1,98 @@
+@if (activeWorkspaceMode() === 'storefront') {
+  <div class="min-h-screen bg-[#070a12] text-slate-100 flex flex-col font-sans selection:bg-orange-500/30 selection:text-orange-200">
+    <!-- Storefront Workspace -->
+    <div class="p-3 sm:p-6 max-w-7xl mx-auto w-full flex-1">
+      <app-storefront-view (switchToAdmin)="setWorkspaceMode('hq')" />
+    </div>
+    <app-toast />
+  </div>
+} @else {
+  @if (!api.isAuthenticated()) {
+    <app-auth-view (switchToStorefront)="setWorkspaceMode('storefront')" />
+    <app-toast />
+  } @else {
+    <div class="min-h-screen bg-[#0b0f17] text-slate-100 flex flex-col font-sans selection:bg-orange-500/30 selection:text-orange-200">
+      <!-- Top App Navigation Bar -->
+      <app-header (toggleMenu)="toggleMobileMenu()" (switchToStorefront)="setWorkspaceMode('storefront')" />
+
+      <div class="flex-1 flex overflow-hidden">
+        <!-- Desktop Sidebar (Sticky, Left) -->
+        <div class="hidden lg:block w-72 shrink-0 border-r border-white/5 bg-[#0a0e17]">
+          <app-sidebar [activeTab]="currentTab()" (tabChange)="setTab($event)" />
+        </div>
+
+        <!-- Mobile Drawer Overlay -->
+        @if (mobileMenuOpen()) {
+          <div class="fixed inset-0 z-40 lg:hidden">
+            <button
+              type="button"
+              class="fixed inset-0 w-full h-full bg-black/75 backdrop-blur-sm cursor-default border-none p-0 m-0"
+              aria-label="Close mobile navigation"
+              (click)="mobileMenuOpen.set(false)"
+            ></button>
+            <div class="w-72 h-full bg-[#0a0e17] shadow-2xl relative z-10">
+              <app-sidebar [activeTab]="currentTab()" (tabChange)="setTab($event)" />
+            </div>
+          </div>
+        }
+
+        <!-- Main Workspace Container -->
+        <main class="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full">
+          @switch (currentTab()) {
+            @case ('dashboard') {
+              <app-dashboard-view (navigateTo)="setTab($event)" />
+            }
+            @case ('storefront') {
+              <app-storefront-view (switchToAdmin)="setWorkspaceMode('hq')" />
+            }
+            @case ('products') {
+              <app-products-view (promoteProduct)="handlePromoteProduct($event)" />
+            }
+            @case ('orders') {
+              <app-orders-view />
+            }
+            @case ('dropship') {
+              <app-dropship-view />
+            }
+            @case ('affiliate') {
+              <app-affiliate-view />
+            }
+            @case ('erp') {
+              <app-erp-view />
+            }
+            @case ('pos') {
+              <app-pos-view />
+            }
+            @case ('free-tools') {
+              <app-free-tools-view />
+            }
+            @case ('market') {
+              <app-market-view />
+            }
+            @case ('studio') {
+              <app-studio-view />
+            }
+            @case ('calendar') {
+              <app-calendar-view />
+            }
+            @case ('agents') {
+              <app-agents-view />
+            }
+            @case ('analytics') {
+              <app-analytics-view />
+            }
+            @case ('manager') {
+              <app-manager-view />
+            }
+            @case ('security') {
+              <app-security-view />
+            }
+          }
+        </main>
+      </div>
+
+      <!-- Global Toaster for Audit and Status Notifications -->
+      <app-toast />
+    </div>
+  }
+}
